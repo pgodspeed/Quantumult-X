@@ -32,13 +32,13 @@ DOMAIN-SUFFIX,p-cdn.us,Streaming
 DOMAIN-SUFFIX,sndcdn.com,Streaming
 DOMAIN-SUFFIX,soundcloud.com,Streaming
 # > Spotify
-USER-AGENT,Spotify*,Streaming
-DOMAIN-SUFFIX,pscdn.co,Streaming
-DOMAIN-SUFFIX,scdn.co,Streaming
-DOMAIN-SUFFIX,spotify.com,Streaming
-DOMAIN-SUFFIX,spoti.fi,Streaming
-DOMAIN-KEYWORD,spotify.com,Streaming
-DOMAIN-KEYWORD,-spotify-com,Streaming
+# USER-AGENT,Spotify*,Streaming
+# DOMAIN-SUFFIX,pscdn.co,Streaming
+# DOMAIN-SUFFIX,scdn.co,Streaming
+# DOMAIN-SUFFIX,spotify.com,Streaming
+# DOMAIN-SUFFIX,spoti.fi,Streaming
+# DOMAIN-KEYWORD,spotify.com,Streaming
+# DOMAIN-KEYWORD,-spotify-com,Streaming
 # > TIDAL
 USER-AGENT,TIDAL*,Streaming
 DOMAIN-SUFFIX,tidal.com,Streaming
