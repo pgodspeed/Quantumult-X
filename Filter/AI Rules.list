@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,cursor.sh
 # > Dify AI
 DOMAIN-SUFFIX,dify.ai
 
-# > Google AI (Gemini/Bard)
+# > Google AI
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,gemini.google.com
